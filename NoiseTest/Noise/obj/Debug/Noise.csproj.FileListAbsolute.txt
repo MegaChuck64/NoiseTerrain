@@ -3,3 +3,8 @@ C:\Users\CJ\documents\visual studio 2015\Projects\NoiseTest\Noise\bin\Debug\Nois
 C:\Users\CJ\documents\visual studio 2015\Projects\NoiseTest\Noise\obj\Debug\Noise.csprojResolveAssemblyReference.cache
 C:\Users\CJ\documents\visual studio 2015\Projects\NoiseTest\Noise\obj\Debug\Noise.dll
 C:\Users\CJ\documents\visual studio 2015\Projects\NoiseTest\Noise\obj\Debug\Noise.pdb
+C:\Users\CJ\Documents\Visual Studio 2015\Projects\NoiseTerrain\NoiseTest\Noise\bin\Debug\Noise.dll
+C:\Users\CJ\Documents\Visual Studio 2015\Projects\NoiseTerrain\NoiseTest\Noise\bin\Debug\Noise.pdb
+C:\Users\CJ\Documents\Visual Studio 2015\Projects\NoiseTerrain\NoiseTest\Noise\obj\Debug\Noise.csprojResolveAssemblyReference.cache
+C:\Users\CJ\Documents\Visual Studio 2015\Projects\NoiseTerrain\NoiseTest\Noise\obj\Debug\Noise.dll
+C:\Users\CJ\Documents\Visual Studio 2015\Projects\NoiseTerrain\NoiseTest\Noise\obj\Debug\Noise.pdb

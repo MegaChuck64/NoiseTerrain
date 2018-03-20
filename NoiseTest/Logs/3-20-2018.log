@@ -1,0 +1,76 @@
+~	~	~ NEW DAY ENTERED ~	~	~
+~	~	~ ~~ 3/20/2018 ~~ ~	~	~
+*
+*
+  LOG ____ || ____ 1:41 AM ____ || ____ 
+*
+*
+  LOG ____ || ____ 1:41 AM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 1:41 AM ____ || ____ Writing 10x10 tiles took 0.0545066 seconds ____ || ____  
+  LOG ____ || ____ 1:45 AM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 1:45 AM ____ || ____ Reading 10x10 tiles took 0.0050024 seconds ____ || ____ 
+  LOG ____ || ____ 1:50 AM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 1:50 AM ____ || ____ Writing 25x25 tiles took 0.0375066 seconds ____ || ____ 
+  LOG ____ || ____ 1:51 AM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 1:51 AM ____ || ____ Writing 25x25 tiles took 0.017 seconds ____ || ____ 
+  LOG ____ || ____ 1:51 AM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 1:51 AM ____ || ____ Reading 25x25 tiles took 0.0120013 seconds ____ || ____ 
+  LOG ____ || ____ 2:49 AM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 2:49 AM ____ || ____ Writing 250x250 tiles took 0.29257 seconds ____ || ____ 
+  LOG ____ || ____ 2:49 AM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 2:50 AM ____ || ____ Writing 2500x2500 tiles took 26.81437 seconds ____ || ____ 
+  LOG ____ || ____ 2:51 AM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 2:51 AM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 2:51 AM ____ || ____ Writing 500x500 tiles took 1.1926515 seconds ____ || ____  - 2d array
+  LOG ____ || ____ 2:52 AM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 2:52 AM ____ || ____ Reading 500x500 tiles took 3.2734503 seconds ____ || ____ 
+  LOG ____ || ____ 3:02 AM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 3:04 AM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 3:04 AM ____ || ____ Writing 500x500 tiles took 2.4715299 seconds ____ || ____  - HASH TABLE
+  LOG ____ || ____ 3:04 AM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 3:05 AM ____ || ____ Reading 500x500 tiles took 9.4216143 seconds ____ || ____ 
+  LOG ____ || ____ 3:06 AM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 3:08 AM ____ || ____ Reading 500x500 tiles took 86.821573 seconds ____ || ____ 
+  LOG ____ || ____ 3:08 AM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 3:09 AM ____ || ____ Reading 500x500 tiles took 9.4412135 seconds ____ || ____ 
+  LOG ____ || ____ 3:18 AM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 3:19 AM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 3:19 AM ____ || ____ Writing 500x500 tiles took 3.451585 seconds ____ || ____  - Dictionary
+  LOG ____ || ____ 3:21 AM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 3:21 AM ____ || ____ Writing 500x500 tiles took 3.5224182 seconds ____ || ____ 
+  LOG ____ || ____ 3:21 AM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 3:21 AM ____ || ____ Writing 500x500 tiles took 3.4882047 seconds ____ || ____ 
+  LOG ____ || ____ 3:22 AM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 3:22 AM ____ || ____ Writing 500x500 tiles took 3.4640392 seconds ____ || ____ 
+  LOG ____ || ____ 3:23 AM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 3:25 AM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 3:25 AM ____ || ____ Writing 500x500 tiles took 3.5000254 seconds ____ || ____ 
+  LOG ____ || ____ 3:26 AM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 3:26 AM ____ || ____ Reading 500x500 tiles took 13.2646649 seconds ____ || ____ 
+  LOG ____ || ____ 3:28 AM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 3:28 AM ____ || ____ Writing 1000x1000 tiles took 13.3037186 seconds ____ || ____ 
+  LOG ____ || ____ 3:29 AM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 3:32 AM ____ || ____ Reading 1000x1000 tiles took 183.946883 seconds ____ || ____ 
+  LOG ____ || ____ 3:43 AM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 3:46 AM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 3:46 AM ____ || ____ Writing 1000x1000 tiles took 13.4031616 seconds ____ || ____ 
+  LOG ____ || ____ 3:47 AM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 3:47 AM ____ || ____ Writing 1000x1000 tiles took 13.6434891 seconds ____ || ____ 
+  LOG ____ || ____ 3:48 AM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 3:48 AM ____ || ____ Writing 500x500 tiles took 3.4704507 seconds ____ || ____ 
+  LOG ____ || ____ 4:17 AM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 4:17 AM ____ || ____ Writing 500x500 tiles took 3.6846675 seconds ____ || ____ 
+  LOG ____ || ____ 4:23 AM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 4:23 AM ____ || ____ Writing 500x500 tiles took 3.6966143 seconds ____ || ____ 
+  LOG ____ || ____ 4:24 AM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 4:24 AM ____ || ____ Writing 500x500 tiles took 3.7402416 seconds ____ || ____ 
+  LOG ____ || ____ 4:25 AM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 4:25 AM ____ || ____ Writing 500x500 tiles took 3.7052218 seconds ____ || ____ 
+  LOG ____ || ____ 4:25 AM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 4:25 AM ____ || ____ Writing 500x500 tiles took 3.7327918 seconds ____ || ____ 
+  LOG ____ || ____ 4:26 AM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 4:26 AM ____ || ____ Writing 500x500 tiles took 3.747978 seconds ____ || ____ 
+  LOG ____ || ____ 4:26 AM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 4:26 AM ____ || ____ Writing 500x500 tiles took 3.7858438 seconds ____ || ____ 
+  LOG ____ || ____ 4:27 AM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 4:27 AM ____ || ____ Writing 500x500 tiles took 3.7984426 seconds ____ || ____ 

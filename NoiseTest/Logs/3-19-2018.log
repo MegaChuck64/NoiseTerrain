@@ -1,0 +1,34 @@
+~	~	~ NEW DAY ENTERED ~	~	~
+~	~	~ ~~3/19/2018~~ ~	~	~
+*
+*
+  LOG ____ || ____ 1:00 AM ____ || ____ 
+*
+*
+  LOG ____ || ____ 1:00 AM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 1:01 AM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 1:02 AM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 2:22 PM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 4:28 PM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 4:30 PM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 4:31 PM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 4:32 PM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 4:33 PM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 4:46 PM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 4:47 PM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 10:09 PM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 10:09 PM ____ || ____ Failed to serialize. Reason: Type 'NoiseTest.Tile' in Assembly 'NoiseTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' is not marked as serializable. ____ || ____ 
+  LOG ____ || ____ 10:09 PM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 10:16 PM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 10:17 PM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 10:25 PM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 10:26 PM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 10:27 PM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 10:46 PM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 10:46 PM ____ || ____ Writing 500x500 tiles took -719282 seconds ____ || ____ 
+  LOG ____ || ____ 10:50 PM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 10:50 PM ____ || ____ Writing 500x500 tiles took 1.2056924 seconds ____ || ____ 
+  LOG ____ || ____ 10:52 PM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 10:52 PM ____ || ____ Writing 1000x1000 tiles took 4.1996282 seconds ____ || ____ 
+  LOG ____ || ____ 10:53 PM ____ || ____ Game Started ____ || ____ 
+  LOG ____ || ____ 10:54 PM ____ || ____ Writing 5000x5000 tiles took 100.4692811 seconds ____ || ____ 
